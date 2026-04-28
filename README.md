@@ -1,4 +1,4 @@
-# Euler's Method – ODE Solver
+# Euler's Method – Ordinary Differential Equation Solver
 
 A Python program that solves Ordinary Differential Equations (ODEs) numerically using Euler's Method.
 
